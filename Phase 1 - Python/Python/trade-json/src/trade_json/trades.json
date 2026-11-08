@@ -1,0 +1,14 @@
+[
+  {
+    "symbol": "AAPL",
+    "side": "BUY",
+    "qty": 100,
+    "price": 190.5
+  },
+  {
+    "symbol": "MSFT",
+    "side": "SELL",
+    "qty": 50,
+    "price": 410.0
+  }
+]
